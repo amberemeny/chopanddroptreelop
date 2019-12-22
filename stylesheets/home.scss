@@ -363,7 +363,7 @@ body {
   @media (max-width: 669px) {
 
     body {
-        
+
         // background-color: green;
         header {
             flex-direction: column;
@@ -453,6 +453,11 @@ body {
           #quoteBg {
               #quoteBoxOuter {
                   max-width: 80%;
+              }
+          }
+          footer {
+              #info1 {
+                flex-direction: column;
               }
           }
       }
